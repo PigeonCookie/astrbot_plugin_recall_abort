@@ -30,7 +30,7 @@ RECALL_NOTICE_TYPES = (
     "astrbot_plugin_recall_abort",
     "小涂真纪",
     "撤回即作废：用户撤回消息后，正在分析的回复在发送前被丢弃，立刻停止分析",
-    "v1.0.0",
+    "1.0.0",
 )
 class RecallAbortPlugin(Star):
     def __init__(self, context: Context, config: AstrBotConfig | None = None):
