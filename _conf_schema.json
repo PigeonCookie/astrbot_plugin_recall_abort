@@ -1,0 +1,17 @@
+{
+  "enable": {
+    "description": "总开关：开启后，被撤回的消息不再回复",
+    "type": "bool",
+    "default": true
+  },
+  "window": {
+    "description": "撤回记录保留时长（秒），超过就清掉",
+    "type": "int",
+    "default": 120
+  },
+  "notify": {
+    "description": "在日志里记录每次撤回拦截",
+    "type": "bool",
+    "default": true
+  }
+}
