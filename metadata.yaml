@@ -5,6 +5,12 @@ short_desc: 撤回消息即中断回复，撤回慢于回复则拦不住
 version: 1.0.0
 author: 咕子曲奇GuZzz
 repo: https://github.com/PigeonCookie/astrbot_plugin_recall_abort
+social_link: https://github.com/PigeonCookie
+tags:
+  - tool
+  - message
+  - group
+  - recall
 support_platforms:
   - aiocqhttp
 astrbot_version: ">=4.0.0"
