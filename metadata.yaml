@@ -3,7 +3,7 @@ display_name: 撤回即作废
 desc: 用户撤回消息后，正在生成的回复在预发送前被丢弃，立刻停止分析，一个字都不发出去
 short_desc: 撤回消息即中断回复，撤回慢于回复则拦不住
 version: 1.0.0
-author: 小涂真纪
+author: 咕子曲奇GuZzz
 repo: https://github.com/PigeonCookie/astrbot_plugin_recall_abort
 support_platforms:
   - aiocqhttp

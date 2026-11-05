@@ -28,7 +28,7 @@ RECALL_NOTICE_TYPES = (
 
 @register(
     "astrbot_plugin_recall_abort",
-    "小涂真纪",
+    "咕子曲奇GuZzz",
     "撤回即作废：用户撤回消息后，正在分析的回复在发送前被丢弃，立刻停止分析",
     "1.0.0",
 )
